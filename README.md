@@ -9,6 +9,9 @@
     <a href="https://instagram.com/haipradana">
     <img src="https://img.shields.io/badge/-@Pradana%20yahya-blue?style=for-the-badge&logo=instagram&logoColor=00AEFF&labelColor=black&color=black" alt="Instagram">
   </a>
+      <a href="https://www.youtube.com/haipradana">
+    <img src="https://img.shields.io/badge/subscribe haipradana-black?style=for-the-badge&logo=youtube&logoColor=blue" alt="YouTube">
+  </a>
 </p>
 
 # Hi 👋, I'm Dana
