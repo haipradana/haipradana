@@ -17,7 +17,7 @@
 # Hi 👋, I'm Dana
 
 - 🔭 Information Engineering student at Universitas Gadjah Mada
-- 👀 I’m interested in technology and data science.
+- 👀 I’m interested in technology, programming, and data science.
 - 🌱 I’m currently learning python, C++, and introduction to data science.
 - 📫 Reach me trough pradanayahyaabdillah@mail.ugm.ac.id
 
