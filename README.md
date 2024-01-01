@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://twitter.com/zuramai">
+  <a href="https://twitter.com/haipradana">
     <img src="https://img.shields.io/twitter/follow/haipradana?style=for-the-badge&label=%40haipradana&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/pradana-yahya">
