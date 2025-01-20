@@ -1,4 +1,4 @@
-# Hi 👋, Dana here-
+# Hi 👋, Dana here
 
 - 🔭 Information Engineering student at Universitas Gadjah Mada
 - 🌱 I’m currently learning Machine Learning, Computer Vision, and Web Development
