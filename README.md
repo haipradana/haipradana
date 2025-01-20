@@ -1,25 +1,10 @@
-<p align="center">
-  <a href="https://twitter.com/haipradana">
-    <img src="https://img.shields.io/twitter/follow/haipradana?style=for-the-badge&label=%40haipradana&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/pradana-yahya">
-    <img src="https://img.shields.io/badge/-Pradana%20yahya-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black" alt="LinkedIn">
-  </a>
-  </a>
-    <a href="https://instagram.com/pradanabdillah">
-    <img src="https://img.shields.io/badge/-@Pradana%20yahya-blue?style=for-the-badge&logo=instagram&logoColor=00AEFF&labelColor=black&color=black" alt="Instagram">
-  </a>
-      <a href="https://www.youtube.com/haipradana">
-    <img src="https://img.shields.io/badge/subscribe haipradana-black?style=for-the-badge&logo=youtube&logoColor=blue" alt="YouTube">
-  </a>
-</p>
-
-# Hi 👋, I'm Dana
+# Hi 👋, Dana here-
 
 - 🔭 Information Engineering student at Universitas Gadjah Mada
-- 👀 I’m interested in technology, programming, and data science.
-- 🌱 I’m currently learning python, C++, and introduction to data science.
-- 📫 Reach me trough pradanayahyaabdillah@mail.ugm.ac.id
+- 🌱 I’m currently learning Machine Learning, Computer Vision, and Web Development
+- 👀 I’m interested in Artificial Intelligent and Computer Vision
+- 🤖 Vision Programmer at Fukuro | Gadjah Mada Robotic Team
+- 📫 Reach me through pradanayahyaabdillah@mail.ugm.ac.id
 
 <!---
 haipradana/haipradana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
