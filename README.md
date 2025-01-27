@@ -5,8 +5,3 @@
 - 👀 I’m interested in Artificial Intelligent and Computer Vision
 - 🤖 Vision Programmer at Fukuro | Gadjah Mada Robotic Team
 - 📫 Reach me through pradanayahyaabdillah@mail.ugm.ac.id
-
-<!---
-haipradana/haipradana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
